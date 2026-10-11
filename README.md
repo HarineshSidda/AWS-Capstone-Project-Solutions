@@ -1,2 +1,2 @@
-# CloudThat_AWS_Capstone_Project_Solutions
+# AWS Capstone Project Solutions
 CloudThat AWS Capstone Project Solutions
